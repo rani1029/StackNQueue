@@ -11,7 +11,7 @@ namespace StackNQueue
             list.Push(30);
             list.Push(56);
             list.Display();
-
+            list.IsEmpty();
         }
     }
 }
