@@ -25,6 +25,28 @@ namespace StackNQueue
             this.top = node;
             Console.WriteLine("{0} pushed to stack", value);
         }
+
+        internal void Peek()
+        {
+            if (this.top == null)
+            {
+                Console.WriteLine("Stack is Empty !");
+                return;
+            }
+            Console.WriteLine("{0} is in the top of the Stack : ", this.top.data);
+        }
+
+        internal void Pop()
+        {
+            if (this.top == null)
+            {
+                Console.WriteLine("Stack is Empty, Deletion is not Possible !");
+                return;
+            }
+            Console.WriteLine("Popped value : {0}", this.top.data);
+
+            this.top = this.top.next;
+        }
         internal void Display()
         {
             Node temp = this.top;
