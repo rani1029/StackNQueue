@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\StackNQueue\StackNQueue\bin\Debug\netcoreapp3.1\StackNQueue.exe
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\StackNQueue\StackNQueue\bin\Debug\netcoreapp3.1\StackNQueue.deps.json
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\StackNQueue\StackNQueue\bin\Debug\netcoreapp3.1\StackNQueue.runtimeconfig.json
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\StackNQueue\StackNQueue\bin\Debug\netcoreapp3.1\StackNQueue.runtimeconfig.dev.json
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\StackNQueue\StackNQueue\bin\Debug\netcoreapp3.1\StackNQueue.dll
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\StackNQueue\StackNQueue\bin\Debug\netcoreapp3.1\StackNQueue.pdb
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\StackNQueue\StackNQueue\obj\Debug\netcoreapp3.1\StackNQueue.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\StackNQueue\StackNQueue\obj\Debug\netcoreapp3.1\StackNQueue.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\StackNQueue\StackNQueue\obj\Debug\netcoreapp3.1\StackNQueue.AssemblyInfo.cs
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\StackNQueue\StackNQueue\obj\Debug\netcoreapp3.1\StackNQueue.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\StackNQueue\StackNQueue\obj\Debug\netcoreapp3.1\StackNQueue.dll
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\StackNQueue\StackNQueue\obj\Debug\netcoreapp3.1\StackNQueue.pdb
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\StackNQueue\StackNQueue\obj\Debug\netcoreapp3.1\StackNQueue.genruntimeconfig.cache
